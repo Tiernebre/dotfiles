@@ -9,3 +9,4 @@ function config --wraps git --description "Manages dotfiles"
 end
 
 
+export PATH="$HOME/.local/bin:$PATH"

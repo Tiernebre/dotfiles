@@ -6,6 +6,7 @@
 ---@module 'lazy'
 ---@type LazySpec
 return {
+  { 'wuelnerdotexe/vim-astro' },
   {
     'MeanderingProgrammer/render-markdown.nvim',
     ft = { 'markdown' },
